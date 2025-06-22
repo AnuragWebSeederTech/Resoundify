@@ -50,7 +50,7 @@ const HeroSection = () => {
           <span className="bg-gradient-to-r from-amber-300 via-yellow-400 to-orange-400 bg-clip-text text-transparent font-serif">
             Audio-Visual
           </span>{' '}
-          Experiences
+          Experience
           
         </h1>
 
