@@ -42,7 +42,7 @@ const HeroSection = () => {
       </div>
 
       {/* Content Container */}
-      <div className="relative z-10 items-start mx-auto px-6 py-20 w-full">
+      <div className="relative z-10 items-start mx-auto px-16 py-20 w-full">
         {/* Main Heading */}
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-light text-white mb-6 leading-tight tracking-tight animate-fade-in-up" style={{animationDelay: '0.2s'}}>
           Redefining {' '}
